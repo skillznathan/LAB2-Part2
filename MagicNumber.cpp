@@ -32,3 +32,12 @@ int main() {
 
     return 0;
 }
+
+
+
+/* @skillznathan ➜ /workspaces/LAB2-Part2 (main) $ g++ MagicNumber.cpp -o Magic
+@skillznathan ➜ /workspaces/LAB2-Part2 (main) $ ./Magic
+Please enter your favorite number: 8
+Your magic number is... 5! */
+
+
